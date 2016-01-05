@@ -1,2 +1,2 @@
 # someCode
-Preserve my code while learning
+Preserve some code while coding
