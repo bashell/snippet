@@ -1,2 +1,2 @@
-# someCode
-Preserve some code while coding
+# Snippet
+Preserve some useful code snippets.
